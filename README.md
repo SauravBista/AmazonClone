@@ -1,4 +1,4 @@
-Amazon Clone
+Amazon Clone ## CSS and Java 
 
 This project is a clone of Amazon's website, created for educational purposes. It demonstrates basic web development techniques using HTML, CSS, and Bootstrap for styling.
 Project Overview
